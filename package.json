@@ -1,6 +1,6 @@
 {
   "name": "findbyview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Getting HTML id and React refs",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -10,11 +10,6 @@
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir lib/cjs"
   },
-  "keywords": [
-    "base64",
-    "encode",
-    "encoding"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/DerGoogler/findByView"
